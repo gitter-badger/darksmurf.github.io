@@ -1,0 +1,19 @@
+/*body {
+    background-image: url('../../images/desert_tv.jpg'), url('../../images/Laptop-Background.jpg');
+    background-size: cover, cover;
+    background-repeat: no-repeat, no-repeat;
+    background-position: top right, bottom left;
+}*/
+body {
+    background-image: url('../../images/desert_tv.jpg');
+    background-size: cover;
+}
+#social-media-icons {
+    margin-top: 20%;
+}
+.thumbnail-projects {
+    float: left;
+}
+.container-thumbnails{
+    margin-top: 10%;
+}
