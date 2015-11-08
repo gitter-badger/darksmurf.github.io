@@ -17,3 +17,6 @@ body {
 .container-thumbnails{
     margin-top: 10%;
 }
+.project-link:hover{
+    text-decoration: none;
+}
