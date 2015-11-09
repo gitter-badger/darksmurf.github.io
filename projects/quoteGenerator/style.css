@@ -1,0 +1,55 @@
+body{
+    font-family: "Roboto Condensed";
+}
+#quote_button {
+    border: 0;
+    border-radius: 100px;
+    background-color: #3498db;
+    /*#3498db#2980b9*/
+    color: white;
+    width: 30%;
+    height: 60px;
+    font-size: 2em;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+#quote_button:hover {
+    cursor: pointer;
+}
+.quote-container {
+    border: 2px solid #95a5a6;
+    width: 50%;
+    margin-top: 2.5%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 10px;
+}
+.quote{
+    font-size: 1.5em;
+}
+.speaker {
+    font-style: italic;
+}
+.back-button {
+    display: block;
+    margin-top: -248px;
+    margin-left: -48px;
+    float: left;
+    height: 350px;
+    width: 175px;
+    color: #999;
+    text-decoration: none;
+    text-align: center;
+    font-size: 2em;
+}
+.back-button:hover {
+    background-color: #ccc;
+}
+#credits {
+    position: absolute;
+    bottom: 0;
+}

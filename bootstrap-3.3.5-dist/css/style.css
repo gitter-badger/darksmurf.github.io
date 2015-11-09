@@ -20,3 +20,4 @@ body {
 .project-link:hover{
     text-decoration: none;
 }
+.thumbnail img { height:200px; }
