@@ -29,3 +29,8 @@ italics {
 bold {
     font-weight: bold;
 }
+#logoImg {
+    border-radius: 100%;
+    height: 40px;
+    margin-top: 2%;
+}
